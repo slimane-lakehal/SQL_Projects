@@ -1,6 +1,3 @@
--- Write your own SQL object definition here, and it'll be included in your package.
--- Final project setup for game score tracking database
-
 -- Drop the database if it exists
 USE Master;
 GO
